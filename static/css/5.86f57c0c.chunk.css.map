@@ -1,0 +1,1 @@
+{"version":3,"sources":["RoleDetail.css"],"names":[],"mappings":"AAAA,qBACE,cAAe,CACf,kBACF,CACA,uBACE,oBAAuB,CACvB,4BACF","file":"5.86f57c0c.chunk.css","sourcesContent":[".ant-collapse-header {\r\n  font-size: 20px;\r\n  font-weight: bolder;\r\n}\r\n.ant-table-thead > tr > th {\r\n  color: white !important;\r\n  background: #1686dd !important;\r\n}\r\n"]}
